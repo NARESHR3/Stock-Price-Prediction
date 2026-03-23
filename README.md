@@ -116,5 +116,5 @@ plt.show()
 
 
 ## Result
-
+The RNN model successfully predicts future stock prices based on historical closing prices. The predicted prices closely follow the actual prices, demonstrating the model's ability to capture temporal patterns. The performance of the model is evaluated by comparing the predicted and actual prices through visual plots
 
